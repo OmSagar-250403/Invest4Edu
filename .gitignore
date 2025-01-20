@@ -1,2 +1,5 @@
-venv
+# Ignore the virtual environment directory
+venv/
+
+# Ignore the Report_Cards folder
 Report_Cards/
